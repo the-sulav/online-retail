@@ -38,3 +38,5 @@ This repository contains Python code for analyzing the "Online Retail" dataset o
 
 ## Conclusion
 The code provides a comprehensive analysis of the "Online Retail" dataset, covering data preprocessing, feature engineering, and exploratory data analysis. The results can be used to gain insights into sales trends, customer behavior, and top-performing items.
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
