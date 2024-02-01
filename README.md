@@ -3,9 +3,8 @@
 This repository contains Python code for analyzing the "Online Retail" dataset obtained from [UCI's data repository](https://data.world/uci). The dataset was provided by Dr. Daqing Chen, Director of the Public Analytics group at the School of Engineering, London South Bank University.
 
 ## Data Source
-- **Source:** [UCI - Online Retail Dataset](https://data.world/uci)
-- **Source Author:** Dr. Daqing Chen, chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.
-
+- **Source:** [Kaggle - Online Retail Transaction Data](https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data)
+  
 ## Data Preprocessing
 1. **Duplicate Check:** Checked and confirmed no duplicate rows in the dataset.
 
